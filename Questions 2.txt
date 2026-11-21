@@ -1,0 +1,50 @@
+p 1
+
+KPIs
+  Total operators count
+  Total batches count
+  Total product count
+  Total Flavor count
+  Total Production Time
+
+filter by month
+
+Questions
+
+وقت تصنيع كل منتج من مدة التصنيع
+كل منتج مين العمال اللي شاركو في تصنيعه
+ واخد متوسط وقت قد ايه
+Which specific products generate the highest excess minutes?
+كل عامل نفذ كام باتش
+
+p2
+
+KPIs
+
+  Total production time
+  Total Downtime
+
+filter by month
+
+Questions
+
+أكتر 5 أعطال (فاكتورز) مستغرقة للوقت
+أقل 5
+مقارنة الأعطال بسبب العامل و الاعطال بسبب غير العامل من حيث وقت العطل
+نوع العطل لكل منتج بسبب العامل او لا و الوقت المستغرق للعطل
+
+p 3
+
+KPIs
+  Total production time
+  Total Downtime 
+  Total operator error time
+  Average batch duration per operator
+
+filter by month
+
+Questions
+
+بمرور الوقت مين العامل صاحب اعلى كفاءة(أداء العمال بمرور الوقت)
+مدة الاعطال اللي تسبب بيها كل عامل
+العلاقة بين عدد الباتشز المسئول عنها العامل و وقت العطل(هل كل م العامل كان مسئول عن باتشز اكتر زاد العطل تنيجة عبء العمل)
