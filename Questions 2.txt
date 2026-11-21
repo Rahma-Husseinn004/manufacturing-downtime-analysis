@@ -1,15 +1,14 @@
-**Page 1 – Production Overview**
+Page 1 – Production Overview
 
-**KPIs**
+KPIs
 - Total operators count
 - Total batches count
 - Total product count
 - Total flavor count
 - Total production time
 
-**Filter:** by month
 
-**Questions**
+Questions
 1. How much production time did each product take out of the total production time?
 2. For each product, which operators took part in making it, and what was their average production time?
 3. Which specific products generate the highest excess minutes?
@@ -17,15 +16,14 @@
 
 ---
 
-**Page 2 – Downtime Analysis**
+Page 2 – Downtime Analysis
 
-**KPIs**
+KPIs
 - Total production time
 - Total downtime
 
-**Filter:** by month
 
-**Questions**
+Questions
 1. What are the top 5 downtime factors by time lost?
 2. What are the bottom 5 downtime factors by time lost?
 3. How does downtime caused by operator error compare with downtime from other causes, in minutes?
@@ -33,15 +31,13 @@
 
 ---
 
-**Page 3 – Operator Performance**
 
-**KPIs**
+KPIs
 - Total production time
 - Total downtime
 - Total operator error time
 - Average batch duration per operator
 
-**Filter:** by month
 
 **Questions**
 1. Over time, which operator has the highest efficiency? (Operator performance over time.)
