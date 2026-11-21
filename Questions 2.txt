@@ -1,50 +1,49 @@
-p 1
+**Page 1 – Production Overview**
 
-KPIs
-  Total operators count
-  Total batches count
-  Total product count
-  Total Flavor count
-  Total Production Time
+**KPIs**
+- Total operators count
+- Total batches count
+- Total product count
+- Total flavor count
+- Total production time
 
-filter by month
+**Filter:** by month
 
-Questions
+**Questions**
+1. How much production time did each product take out of the total production time?
+2. For each product, which operators took part in making it, and what was their average production time?
+3. Which specific products generate the highest excess minutes?
+4. How many batches did each operator complete?
 
-وقت تصنيع كل منتج من مدة التصنيع
-كل منتج مين العمال اللي شاركو في تصنيعه
- واخد متوسط وقت قد ايه
-Which specific products generate the highest excess minutes?
-كل عامل نفذ كام باتش
+---
 
-p2
+**Page 2 – Downtime Analysis**
 
-KPIs
+**KPIs**
+- Total production time
+- Total downtime
 
-  Total production time
-  Total Downtime
+**Filter:** by month
 
-filter by month
+**Questions**
+1. What are the top 5 downtime factors by time lost?
+2. What are the bottom 5 downtime factors by time lost?
+3. How does downtime caused by operator error compare with downtime from other causes, in minutes?
+4. For each product, which downtime types occurred, were they caused by the operator or not, and how long did each take?
 
-Questions
+---
 
-أكتر 5 أعطال (فاكتورز) مستغرقة للوقت
-أقل 5
-مقارنة الأعطال بسبب العامل و الاعطال بسبب غير العامل من حيث وقت العطل
-نوع العطل لكل منتج بسبب العامل او لا و الوقت المستغرق للعطل
+**Page 3 – Operator Performance**
 
-p 3
+**KPIs**
+- Total production time
+- Total downtime
+- Total operator error time
+- Average batch duration per operator
 
-KPIs
-  Total production time
-  Total Downtime 
-  Total operator error time
-  Average batch duration per operator
+**Filter:** by month
 
-filter by month
-
-Questions
-
-بمرور الوقت مين العامل صاحب اعلى كفاءة(أداء العمال بمرور الوقت)
-مدة الاعطال اللي تسبب بيها كل عامل
-العلاقة بين عدد الباتشز المسئول عنها العامل و وقت العطل(هل كل م العامل كان مسئول عن باتشز اكتر زاد العطل تنيجة عبء العمل)
+**Questions**
+1. Over time, which operator has the highest efficiency? (Operator performance over time.)
+2. How much downtime did each operator cause?
+3. What is the relationship between the number of batches an operator handled and their downtime? In other words, does a heavier workload lead to more downtime?
